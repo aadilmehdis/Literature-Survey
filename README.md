@@ -90,6 +90,10 @@ Research paper readings &amp; summaries
 * Unsupervised Learning of Depth and Ego-Motion from Video [PDF](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/cvpr17_sfm_final.pdf)
   * Zhou et al, **CVPR 2017**
   
+## Amodal Object Canonicalization and Pose detection
+* C3DPO: Canonical 3D Pose Networks for Non-Rigid Structure From Motion [PDF](http://www.robots.ox.ac.uk/~david/papers/novotny19c3dpo.pdf)
+  * Facebook AI Research, **ICCV 2019**
+  
 ## Interesting Papers
 
 * What’s Hidden in a Randomly Weighted Neural Network? [PDF](https://arxiv.org/pdf/1911.13299.pdf)
