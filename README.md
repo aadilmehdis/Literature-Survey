@@ -85,6 +85,11 @@ Research paper readings &amp; summaries
 * Exploiting temporal context for 3D human pose estimation in the wild [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Arnab_Exploiting_Temporal_Context_for_3D_Human_Pose_Estimation_in_the_CVPR_2019_paper.pdf)
   * Zisserman et al, **CVPR 2019**
   
+  
+## Structure from Motion
+* Unsupervised Learning of Depth and Ego-Motion from Video [PDF](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/cvpr17_sfm_final.pdf)
+  * Zhou et al, **CVPR 2017**
+  
 ## Interesting Papers
 
 * What’s Hidden in a Randomly Weighted Neural Network? [PDF](https://arxiv.org/pdf/1911.13299.pdf)
